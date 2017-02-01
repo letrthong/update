@@ -1,0 +1,15 @@
+Normally these are <Major.Minor.Revision.Build>.
+
+Where:
+
+    Major is a major update to the software
+    Minor is a small update to the software
+    Revision is any change made (bug fixes, small updates)
+    Build number (normally an auto increment if used)
+
+In your example (1.7.1.0):
+
+    Major version 1
+    Had 7 minor updates
+    First revision/bugfix
+    No build number
